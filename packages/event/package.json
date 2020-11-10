@@ -1,0 +1,9 @@
+{
+  "name": "@walrus/event",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@walrus/internal": "^1.0.0"
+  }
+}

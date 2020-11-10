@@ -1,0 +1,17 @@
+{
+  "name": "@walrus/internal",
+  "version": "1.0.0",
+  "main": "./lib/index.js",
+  "module": "./esm/index.js",
+  "types": "./lib/index.d.ts",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^4.2.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=10.17.0"
+  }
+}
